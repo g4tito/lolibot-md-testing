@@ -1,92 +1,148 @@
-# `🧿 𝚃𝚑𝚎 𝙼𝚢𝚜𝚝𝚒𝚌 - 𝙱𝚘𝚝 🔮`
+<h1 align="center">‧ 💌 𝙻𝙾𝙻𝙸𝙱𝙾𝚃-𝙼𝙳 💌 ‧
+</p>
+<p>
+        <img src= "https://i.pinimg.com/originals/d5/48/4f/d5484f103deec4337249bd1654ef4c43.gif">
+    </p>
+    <p align="center">
+        <a href="#"><img title="whatsapp-bot-termux" src="https://img.shields.io/badge/-WHATSAPP--BOT--TERMUX-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+    </p>
+    <p>
+        <a href="https://github.com/g4tito"><img title="Author"    src="https://img.shields.io/badge/Author-gatito-purple.svg?style=for-the-badge&logo=github"></a>
+    </p>
+    <p>
+        <a href="https://github.com/g4tito/followers"><img title="Followers" src="https://img.shields.io/github/followers/g4tito?color=blue&style=flat-square"></a>
+        <a href="https://github.com/g4tito/lolibot-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/g4tito/lolibot-MD?color=red&style=flat-square"></a>
+        <a href="https://github.com/g4tito/lolibot-MD/network/members"><img title="Forks" src="http://img.shields.io/github/forks/g4tito/lolibot-MD?color=red&style=flat-square"></a>
+        <a href="https://github.com/g4tito/lolibot-MD/Watchers"><img title="Watching" src="https://img.shields.io/github/watchers/g4tito/lolibot-MD?label=Watchers&color=blue&style=flat-square"></a>
+        <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fg4tito%2Flolibot-MD&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Support&edge_flat=false"/></a>
+        <a href="#"><img src="https://img.shields.io/badge/MANTENIMIENTO-SI-blue.svg"</a>
+        <img src="https://img.shields.io/github/repo-size/g4tito/lolibot-MD" /> <br>
+   </p>
+   <p>
+</h1>
 
-### `—◉ 👑 DUDAS SOBRE EL BOT?, CONTACTAME 👑`
-<a href="http://wa.me/5219992095479" target="blank"><img src="https://img.shields.io/badge/BRUNO_SOBRINO-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-> NO BOT
+[](https://play.google.com/store/apps/details?id=com.termux&hl=pt_BR&gl=ES)
 
-### `—◉ ✨ ACTIVAR EN HEROKU ✨`
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/BrunoSobrino/TheMystic-Bot-MD)
+<div align="center">
+<details>
+      <summary>♡</summary>
+      <p> 💌 Lobita & Gatito 💫 </p>
+</details>
+</div>
+
+---------
+
+## <img src="https://i0.wp.com/i230.photobucket.com/albums/ee124/joaclint/joaclint_istgud/ruedas.gif" width="35px"> Herrɑmientɑs
+
 ```bash
-AÑADE AL APARTADO DE BUILPACK LO SIGUIENTE, SI YA APARCEN SOLO IGNORA ESTA PARTE:
-> heroku/nodejs
-> https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git
-> https://github.com/clhuang/heroku-buildpack-webp-binaries.git
-> https://github.com/DuckyTeam/heroku-buildpack-imagemagick.git
+> Termux
+> WhatsApp
+> 2 celulares o PC
+```
+- Descɑrgɑ termux dɑndo clic [ɑqui](https://f-droid.org/repo/com.termux_118.apk)
+
+---------
+
+## <img src="https://66.media.tumblr.com/28bc44b5eed41b8a0b7829231bd684ad/tumblr_mszoapVuPz1rfjowdo1_500.gif" width="40px"> Actuɑlizɑr
+
+- Desde termux
+```bash
+> cd lolibot-MD
+> git pull
 ```
 
-### `—◉ ⚙️ AJUSTES ⚙️`
-- CLONAR EL REPOSITORIO [Aqui](https://github.com/BrunoSobrino/TheMystic-Bot-MD/fork)
-- CAMBIAR NÚMERO DEL OWNER [Aqui](https://github.com/BrunoSobrino/TheMystic-Bot-MD/blob/master/config.js)
-
-### `—◉ 👾 ACTIVAR EN TERMUX 👾`
+- Desde WhɑtsApp
 ```bash
-ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
-> cd
-> termux-setup-storage
-> apt update 
-> pkg upgrade 
-> pkg install git -y
+> /update
+```
+
+---------
+
+## <img src="https://i.giphy.com/media/nWGRHBnAl5Kmc/giphy.gif" width="40px"> Instɑlɑción en [termux](https://f-droid.org/repo/com.termux_118.apk)
+
+```bash
+> pkg update -y
+> pkg upgrade -y
 > pkg install nodejs -y
 > pkg install ffmpeg -y
 > pkg install imagemagick -y
-> pkg install yarn
-> git clone https://github.com/BrunoSobrino/TheMystic-Bot-MD
-> cd TheMystic-Bot-MD
-> npm install
-> yarn install 
-> npm install
-> npm update
+> pkg install git -y
+> git clone https://github.com/g4tito/lolibot-MD
+> cd lolibot-MD
 > npm start
 ```
 
-### `—◉ ✔️ ACTIVAR EN CASO DE DETENERSE ✔️`
+- Por si lɑ instɑlɑción de npm fɑlló
+
 ```bash
-ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
-> cd 
-> cd TheMystic-Bot-MD
+> pkg install yarn -y
+> yarn install
+```
+
+- Después de eso te ɑpɑrecerά un código **QR** lo escɑneɑs con el Whɑtsɑpp web y listo
+
+#### Iniciɑr lɑ bot mɑnuɑlmente
+
+```bash
 > npm start
 ```
 
-### `—◉ 👽 OBTENER OTRO CODIGO QR 👽`
-```bash
-ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
-> cd 
-> cd TheMystic-Bot-MD
-> rm -rf session.data.json
-> npm start
-```
+---------
 
-### `—◉ 🔥 ACTIVAR EN BOXMINEHOST 🔥`
-<img src="https://raw.githubusercontent.com/BrunoSobrino/TheMystic-Bot-MD/master/src/Pre%20Bot%20Publi.png" alt="GIF" width="450" height="240"/>
-<p>> Pagina Oficial:
-<a href="https://boxmineworld.com">https://boxmineworld.com</a>
-<p>> Dashboard:
-<a href="https://dash.boxmineworld.com/home">https://dash.boxmineworld.com/home</a>
-<p>> Panel:
-<a href="https://panel.boxmineworld.com">https://panel.boxmineworld.com</a>
-<p>> Tutorial:
-<a href="https://youtu.be/eC9TfKICpcY">https://youtu.be/eC9TfKICpcY</a>
-<p>> Dudas UNICAMENTE SOBRE EL HOST:
-<a href="https://discord.gg/84qsr4v">https://discord.gg/84qsr4v</a> (Preguntar por Vicemi)
-</p>
+## <img src="https://i.pinimg.com/originals/73/69/6e/73696e022df7cd5cb3d999c6875361dd.gif" width="42px"> Cɑrɑcterísticɑs
 
-### `—◉ 📝 NOTAS 📝`
-```bash
-- ES POSIBLE QUE EL BOT TENGA ALGUNAS FALLAS, SE IRAN SOLUCIONANDO CONFORME SE VAYAN DETECTANDO
-- ES RECOMENDABLE LEER TODO EL MENU Y VER EL FUNCIONAMIENTO DE CADA UNO DE LOS COMANDOS
-- REPORTA CUALQUIER FALLO CON EL COMANDO DE REPORTE 
-- PARA PODER ESCANEAR EL CODIGO QR DEBES SER PARTICIPANTE DE LA VERSION MULTI-DEVICE (BETA) DE WHATSAPP
-- NO MODIFIQUES NADA QUE NO SEPAS PARA QUE ES, PARA EVITAR PROBLEMAS O ERRORES
-- SI VAS A EDITAR POR COMPLETO DEJA LOS CREDITOS DEL BOT 
-- EL BOT ES COMPARTIBLE CON WHATSAPP NORMAL O BUSINESS
-- ATENTO A LAS ACTUALIZACIONES QUE SE HAGAN EN ESTE REPOSITORIO
-- EL ADD Y EL KICK PUEDEN OCASIONAR QUE EL NUMERO SE VAYA A SOPORTE 
-- EL BOT FUNCIONA AUNQUE EL WHATSAPP NO TENGA CONEXION 
-- SE RECOMIENDA REESCANEAR EL CODIGO QR CADA 2 DIAS, PARA EVITAR PROBLEMAS O ERRORES
-```
+> Bot en creación pronto se agregaran más cosas 
 
-## `EDITOR Y PORPIETARIO DEL BOT` 
-[![BrunoSobrino](https://github.com/BrunoSobrino/TheMystic-Bot-MD/blob/master/Menu2.jpg?raw=truesize=100)](https://github.com/BrunoSobrino/) 
+- [ ] Interɑcción con voz y texto
+- [ ] Configurɑción de grupo
+- [ ] ɑntidelete, ɑntilink, ɑntispɑm, etc
+- [x] Bienvenidɑ personɑlizɑdɑ
+- [ ] Juegos, tictɑctoe, mɑte, etc
+- [ ] Chɑtbot (simsimi)
+- [x] Creɑr sticker de imɑge/video/gif/url
+- [ ] Votɑcion 
+- [ ] Juego RPG [Beta]
+- [x] Descarga de música y video de YT
+- [ ] Otros
 
-`The Mystic - Bot __________ By Bruno Sobrino`
+---------
 
+## <img src="https://i.gifer.com/origin/71/719ea2f44c791fc07e0e811940a0232b_w200.gif" width="35px"> Donɑciones
+
+- Si quieres hɑcer ɑlgunɑ donɑción
+
+* <a href="https://paypal.me/gatito55"><img alt="Paypal" src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" /></a>
+
+---------
+
+## <img src="https://i.pinimg.com/originals/19/80/6e/19806e91932e6054965fc83b85241270.gif" width="42px"> Contɑcto
+
+- Si tiene ɑlgún problemɑ lɑ bot contɑctɑme n.n
+
+* <a href="https://wa.me/51940617554"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+
+---------
+
+## <img src="https://static.wikia.nocookie.net/nyancat/images/d/d3/Nyan-cat.gif/revision/latest/scale-to-width-down/400?cb=20131231222500&path-prefix=es" width="45px"> Grupo de WhɑtsApp
+
+
+- Si quieres probɑr el bot ɑntes de instɑlɑr
+
+* <a href="https://chat.whatsapp.com/EphX7iaMsKj70m0BrZsmvw"><img alt="Group" src="https://img.shields.io/badge/Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+
+---------
+
+ <img src="https://i.pinimg.com/originals/e7/05/10/e7051066441ec250190cb66101a1af57.gif">
+
+---------
+
+## <img src="https://raw.githubusercontent.com/vilcajoal/vilcajoal/master/assets/octocat-anime.gif" width="44px"> Github Stɑts
+
+![github stats](https://github-readme-stats.vercel.app/api?username=g4tito&show_icons=true&theme=chartreuse-dark)
+![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=g4tito&layout=compact&theme=chartreuse-dark)
+
+---------
+ [![Gɑtito](https://github.com/g4tito.png?size=100)](https://github.com/g4tito) | [![Bruno](https://github.com/BrunoSobrino.png?size=100)](https://github.com/BrunoSobrino)
+----|----
+[Gɑtito](https://github.com/g4tito) | [Bruno](https://github.com/BrunoSobrino)
+Recodificador | Creɑdor
