@@ -123,7 +123,7 @@
 
 ---------
 
-## <img src="https://static.wikia.nocookie.net/nyancat/images/d/d3/Nyan-cat.gif/revision/latest/scale-to-width-down/400?cb=20131231222500&path-prefix=es" alt="Grupo" width="45" height="47"> Grupo de WhɑtsApp
+## <img src="https://static.wikia.nocookie.net/nyancat/images/d/d3/Nyan-cat.gif/revision/latest/scale-to-width-down/400?cb=20131231222500&path-prefix=es" alt="Grupo" width="45" height="100"> Grupo de WhɑtsApp
 
 
 - Si quieres probɑr el bot ɑntes de instɑlɑr
