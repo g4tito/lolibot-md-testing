@@ -32,7 +32,7 @@
 
 ---------
 
-## <img src="https://i0.wp.com/i230.photobucket.com/albums/ee124/joaclint/joaclint_istgud/ruedas.gif" alt="Herramientas" width="30" height="30"> Herrɑmientɑs
+## <img src="https://i0.wp.com/i230.photobucket.com/albums/ee124/joaclint/joaclint_istgud/ruedas.gif" alt="Herramientas" width="35" height="35"> Herrɑmientɑs
 
 ```bash
 > Termux
@@ -43,7 +43,7 @@
 
 ---------
 
-## <img src="https://66.media.tumblr.com/28bc44b5eed41b8a0b7829231bd684ad/tumblr_mszoapVuPz1rfjowdo1_500.gif" width="40px"> Actuɑlizɑr
+## <img src="https://66.media.tumblr.com/28bc44b5eed41b8a0b7829231bd684ad/tumblr_mszoapVuPz1rfjowdo1_500.gif" alt="Actualizar" width="40" height="40"> Actuɑlizɑr
 
 - Desde termux
 ```bash
@@ -89,7 +89,7 @@
 
 ---------
 
-## <img src="https://i.pinimg.com/originals/73/69/6e/73696e022df7cd5cb3d999c6875361dd.gif" width="42px"> Cɑrɑcterísticɑs
+## <img src="https://i.pinimg.com/originals/73/69/6e/73696e022df7cd5cb3d999c6875361dd.gif" alt="Características" width="42" height="42"> Cɑrɑcterísticɑs
 
 > Bot en creación pronto se agregaran más cosas 
 
@@ -107,7 +107,7 @@
 
 ---------
 
-## <img src="https://i.gifer.com/origin/71/719ea2f44c791fc07e0e811940a0232b_w200.gif" width="35px"> Donɑciones
+## <img src="https://i.gifer.com/origin/71/719ea2f44c791fc07e0e811940a0232b_w200.gif" alt="Donaciones" width="35" height="35"> Donɑciones
 
 - Si quieres hɑcer ɑlgunɑ donɑción
 
@@ -115,7 +115,7 @@
 
 ---------
 
-## <img src="https://i.pinimg.com/originals/19/80/6e/19806e91932e6054965fc83b85241270.gif" width="42px"> Contɑcto
+## <img src="https://i.pinimg.com/originals/19/80/6e/19806e91932e6054965fc83b85241270.gif" alt="Contacto" width="42" height="42"> Contɑcto
 
 - Si tiene ɑlgún problemɑ lɑ bot contɑctɑme n.n
 
@@ -123,7 +123,7 @@
 
 ---------
 
-## <img src="https://static.wikia.nocookie.net/nyancat/images/d/d3/Nyan-cat.gif/revision/latest/scale-to-width-down/400?cb=20131231222500&path-prefix=es" width="45px"> Grupo de WhɑtsApp
+## <img src="https://static.wikia.nocookie.net/nyancat/images/d/d3/Nyan-cat.gif/revision/latest/scale-to-width-down/400?cb=20131231222500&path-prefix=es" alt="Grupo" width="45" height="45"> Grupo de WhɑtsApp
 
 
 - Si quieres probɑr el bot ɑntes de instɑlɑr
@@ -136,7 +136,7 @@
 
 ---------
 
-## <img src="https://raw.githubusercontent.com/vilcajoal/vilcajoal/master/assets/octocat-anime.gif" width="44px"> Github Stɑts
+## <img src="https://raw.githubusercontent.com/vilcajoal/vilcajoal/master/assets/octocat-anime.gif" alt="Github" width="44" height="44"> Github Stɑts
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=g4tito&show_icons=true&theme=chartreuse-dark)
 ![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=g4tito&layout=compact&theme=chartreuse-dark)
