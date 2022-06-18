@@ -11,12 +11,12 @@
     </p>
     <p>
         <a href="https://github.com/g4tito/followers"><img title="Followers" src="https://img.shields.io/github/followers/g4tito?color=blue&style=flat-square"></a>
-        <a href="https://github.com/g4tito/lolibot-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/g4tito/lolibot-MD?color=red&style=flat-square"></a>
-        <a href="https://github.com/g4tito/lolibot-MD/network/members"><img title="Forks" src="http://img.shields.io/github/forks/g4tito/lolibot-MD?color=red&style=flat-square"></a>
-        <a href="https://github.com/g4tito/lolibot-MD/Watchers"><img title="Watching" src="https://img.shields.io/github/watchers/g4tito/lolibot-MD?label=Watchers&color=blue&style=flat-square"></a>
-        <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fg4tito%2Flolibot-MD&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Support&edge_flat=false"/></a>
+        <a href="https://github.com/g4tito/lolibot-md/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/g4tito/lolibot-md?color=red&style=flat-square"></a>
+        <a href="https://github.com/g4tito/lolibot-md/network/members"><img title="Forks" src="http://img.shields.io/github/forks/g4tito/lolibot-md?color=red&style=flat-square"></a>
+        <a href="https://github.com/g4tito/lolibot-md/Watchers"><img title="Watching" src="https://img.shields.io/github/watchers/g4tito/lolibot-md?label=Watchers&color=blue&style=flat-square"></a>
+        <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fg4tito%2Flolibot-md&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Support&edge_flat=false"/></a>
         <a href="#"><img src="https://img.shields.io/badge/MANTENIMIENTO-SI-blue.svg"</a>
-        <img src="https://img.shields.io/github/repo-size/g4tito/lolibot-MD" /> <br>
+        <img src="https://img.shields.io/github/repo-size/g4tito/lolibot-md" /> <br>
    </p>
    <p>
 </h1>
@@ -47,7 +47,7 @@
 
 - Desde termux
 ```bash
-> cd lolibot-MD
+> cd lolibot-md
 > git pull
 ```
 
@@ -67,8 +67,8 @@
 > pkg install ffmpeg -y
 > pkg install imagemagick -y
 > pkg install git -y
-> git clone https://github.com/g4tito/lolibot-MD
-> cd lolibot-MD
+> git clone https://github.com/g4tito/lolibot-md
+> cd lolibot-md
 > npm start
 ```
 
@@ -123,7 +123,7 @@
 
 ---------
 
-## <img src="https://static.wikia.nocookie.net/nyancat/images/d/d3/Nyan-cat.gif/revision/latest/scale-to-width-down/400?cb=20131231222500&path-prefix=es" alt="Grupo" width="45" height="45"> Grupo de WhɑtsApp
+## <img src="https://static.wikia.nocookie.net/nyancat/images/d/d3/Nyan-cat.gif/revision/latest/scale-to-width-down/400?cb=20131231222500&path-prefix=es" alt="Grupo" width="45" height="47"> Grupo de WhɑtsApp
 
 
 - Si quieres probɑr el bot ɑntes de instɑlɑr
