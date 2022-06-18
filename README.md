@@ -32,7 +32,11 @@
 
 ---------
 
-## <img src="https://i0.wp.com/i230.photobucket.com/albums/ee124/joaclint/joaclint_istgud/ruedas.gif" width="10px"> Herrɑmientɑs
+<br />
+    ## Clona este repositorio</h3><img src="https://raw.githubusercontent.com/othneildrew/Best-README-Template/master/images/logo.png" alt="Logo" width="20" height="20">
+  </a>
+
+## <img src="https://i0.wp.com/i230.photobucket.com/albums/ee124/joaclint/joaclint_istgud/ruedas.gif" alt="Herramientas" width="20" height="20"> Herrɑmientɑs
 
 ```bash
 > Termux
